@@ -197,6 +197,7 @@ ChatGPT 代充不需要提供密码，但通常需要你在已登录 ChatGPT 的
 - 同一账号短时间内频繁尝试失败。
 
 建议先确认余额、账单地址、网络环境和浏览器缓存。如果你用的是国内卡，反复重试的意义通常不大，继续尝试可能让支付风控更复杂。
+如果你主要遇到的是银行卡被拒、Stripe 风控或 `Your card has been declined`，也可以参考这个更聚焦的报错排查仓库：https://github.com/usehe/chatgpt-card-declined-guide。
 
 ### 2. We were unable to authenticate your payment method
 
