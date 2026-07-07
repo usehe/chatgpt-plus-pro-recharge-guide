@@ -121,7 +121,7 @@ https://chonggrok.com/chatgpt
 
 进入页面后，查看当前支持的 ChatGPT Plus / Pro 套餐、价格说明、付款方式和注意事项。
 
-> [截图占位：chonggrok.com/chatgpt 页面首页和套餐入口]
+> ![chonggrok.com/chatgpt 页面首页和套餐入口](img/1.jpg)
 
 ### 2. 选择 ChatGPT Plus 或 ChatGPT Pro
 
