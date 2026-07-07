@@ -147,8 +147,8 @@ https://chonggrok.com/chatgpt
 3. 是否已保存订单号或页面提示信息，方便后续售后查询。
 
 支付成功后你会得到一个用于账号充值的卡密，复制卡密，访问付款成功界面给出的卡密核销地址进行充值：https://chonggrok.com/verify
-> [截图占位：支付宝/微信付款页面]
-> ![ChatGPT Plus / Pro 卡密核销](img/3.jpg)
+
+> ![ChatGPT Plus / Pro 卡密核销](img/5.jpg)
 
 ### 4. 按页面提示提交账号凭证
 
@@ -162,7 +162,10 @@ ChatGPT 代充不需要提供密码，但通常需要你在已登录 ChatGPT 的
 - 凭证只用于本次升级；
 - 升级完成后，退出 ChatGPT 并重新登录，刷新旧 session。
 
-> [截图占位：提交账号凭证说明页面]
+> ![ChatGPT Plus / Pro 的账号凭证说明页面](img/6.jpg)
+
+确认是自己的目标账户后就确认并提交充值
+> ![ChatGPT Plus / Pro 的账号凭证说明页面](img/7.jpg)
 
 ### 5. 等待升级并检查会员状态
 
@@ -176,7 +179,7 @@ ChatGPT 代充不需要提供密码，但通常需要你在已登录 ChatGPT 的
 4. 查看订单状态；
 5. 通过 chonggrok.com 页面提示联系售后。
 
-> [截图占位：ChatGPT 订阅状态显示 Plus / Pro]
+> ![ChatGPT 充值状态显示 Plus / Pro](img/8.jpg)
 
 ---
 
