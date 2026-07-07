@@ -134,7 +134,7 @@ https://chonggrok.com/chatgpt
 - 每天都用，且任务比较重：Pro 可考虑；
 - 不确定：先 Plus，后续根据实际使用强度再调整。
 
-> [截图占位：ChatGPT Plus / Pro 套餐选择页面]
+> ![ChatGPT Plus / Pro 套餐选择页面](img/2.jpg)
 
 ### 3. 用支付宝或微信完成付款
 
@@ -146,7 +146,9 @@ https://chonggrok.com/chatgpt
 2. 当前登录的 ChatGPT 账号是不是你自己的常用账号；
 3. 是否已保存订单号或页面提示信息，方便后续售后查询。
 
+支付成功后你会得到一个用于账号充值的卡密，复制卡密，访问付款成功界面给出的卡密核销地址进行充值：https://chonggrok.com/verify
 > [截图占位：支付宝/微信付款页面]
+> ![ChatGPT Plus / Pro 卡密核销](img/3.jpg)
 
 ### 4. 按页面提示提交账号凭证
 
